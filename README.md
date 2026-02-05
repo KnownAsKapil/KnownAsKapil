@@ -1,14 +1,14 @@
-# Kapil  
+# M. Surya Kapil  
 **Computer Science Student | Backend Developer**
 
 ---
 
 ## About Me
 
-I am a third-year Computer Science student with a strong interest in backend development, system design, and scalable architecture.  
+A third-year Computer Science student with a strong interest in backend development, system design, and scalable architecture.  
 My focus is on building structured, maintainable, and efficient systems using modern technologies.
 
-I am currently strengthening my skills in backend architecture, database design, and distributed systems.
+Currently strengthening my skills in backend architecture, database design, and distributed systems.
 
 ---
 
