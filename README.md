@@ -1,51 +1,50 @@
-# Kapil
-
-Computer Science Student | Backend Developer
+# Kapil  
+**Computer Science Student | Backend Developer**
 
 ---
 
 ## About Me
 
 I am a third-year Computer Science student with a strong interest in backend development, system design, and scalable architecture.  
-I focus on building structured, maintainable, and efficient systems using modern technologies.
+My focus is on building structured, maintainable, and efficient systems using modern technologies.
 
-Currently improving my skills in backend architecture, database design, and distributed system fundamentals.
+I am currently strengthening my skills in backend architecture, database design, and distributed systems.
 
 ---
 
 ## Technical Skills
 
-### Languages
+**Languages**
 - JavaScript
 - TypeScript
 - C++
 - Python
 - Java
 
-### Backend
+**Backend Development**
 - Node.js
 - Express.js
 - PostgreSQL
 - MongoDB
 
-### Frontend
+**Frontend Development**
 - React
 
-### Tools
+**Tools & Platforms**
 - Git
 - GitHub
 
 ---
 
-## Projects
+## Selected Projects
 
-### Flow Management System
-Role-based task management system with audit logging, controlled state transitions, and access management.
+### Flow Management System  
+Role-based task management platform with audit logging, controlled workflow transitions, and access management.
 
-### Video-Tweet Platform
-Backend system supporting video uploads, short text posts, playlists, and user interactions including likes and comments.
+### Video-Tweet Platform  
+Backend system supporting video uploads, short posts, playlists, and user engagement through likes and comments.
 
-### Carpooling Backend System
+### Carpooling Backend System  
 RESTful backend for managing users, rides, bookings, and route coordination.
 
 ---
@@ -55,28 +54,20 @@ RESTful backend for managing users, rides, bookings, and route coordination.
 - Backend Architecture
 - System Design
 - Database Optimization
+- Distributed Systems
 - Interview Preparation
 
 ---
 
 ## Competitive Programming
 
-- LeetCode: suryakapil  
-- CodeChef: suryakapil
+- LeetCode: **suryakapil**  
+- CodeChef: **suryakapil**
 
 ---
 
 ## Professional Profiles
 
-- LinkedIn: M. Surya Kapil
+- LinkedIn: **M. Surya Kapil**
 
 ---
-
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KnownAsKapil&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KnownAsKapil&layout=compact&theme=transparent)
-
----
-
