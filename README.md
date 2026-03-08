@@ -49,16 +49,6 @@ RESTful backend for managing users, rides, bookings, and route coordination.
 
 ---
 
-## Current Focus
-
-- Backend Architecture
-- System Design
-- Database Optimization
-- Distributed Systems
-- Interview Preparation
-
----
-
 ## Competitive Programming
 
 - LeetCode: **suryakapil**  
